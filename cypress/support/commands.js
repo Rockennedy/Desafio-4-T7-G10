@@ -10,7 +10,11 @@
 //
 //
 // -- This is a parent command --
-// Cypress.Commands.add('login', (email, password) => { ... })
+Cypress.Commands.add('loginUsuario', () => { 
+    cy.get(':nth-child(2) > .input-field > label').type('Rockennedy');
+    cy.get(':nth-child(3) > .input-field > label').type('102030');
+    cy.get('#btn-entrar').click();
+ });
 //
 //
 // -- This is a child command --

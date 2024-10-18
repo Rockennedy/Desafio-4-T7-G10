@@ -1,0 +1,10 @@
+{
+    "validUser": {
+      "usuario": "Grupo10D4",
+      "password": "102030"
+    },
+    "invalidUser": {
+      "usuario": "Grupo10D400",
+      "password": "1020304050"
+    }
+  }
