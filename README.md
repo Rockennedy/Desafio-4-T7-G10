@@ -10,16 +10,18 @@ Para execução dos testes foi utilizado os seguintes softwares:
 [Cypress](https://www.cypress.io/)
 ### Estrutura do Projeto
 A estrutura do projeto está organizada da seguinte forma:
-├── cypress
-│   ├── e2e
-│   │   ├── Desafio-4
-│   │   │   └── login-Lojinha.cy.js     # Testes relacionados à funcionalidade de login
-│   ├── support
-│   │   ├── commands.js  			       # Comandos customizados
-│   │   └── e2e.js            			       # Arquivo de configuração de suporte dos testes E2E
-├── cypress.config.js       	               # Arquivo de configuração do Cypress
-├── cypress.env.exemplo.json          # Arquivo de exemplo de acesso
-└── README.md               		           # Arquivo com instruções do projeto
+cypress/
+├── fixtures/
+│   └── user.json
+├── integration/
+│   └── login.spec.js
+├── plugins/
+│   └── index.js
+├── support/
+│   ├── commands.js
+│   └── index.js
+cypress.json
+package.json
 
 ### Artigos de referencia utilizados
 [Boas praticas do cypress ](https://docs.cypress.io/guides/references/best-practices)
