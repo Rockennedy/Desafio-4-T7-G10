@@ -10,19 +10,31 @@ Para execução dos testes foi utilizado os seguintes softwares:
 [Cypress](https://www.cypress.io/)
 ### Estrutura do Projeto
 A estrutura do projeto está organizada da seguinte forma:
+
 cypress/
+
 ├── fixtures/
 
 │   └── user.json
+
 ├── integration/
+
 │   └── login.spec.js
+
 ├── plugins/
+
 │   └── index.js
+
 ├── support/
+
 │   ├── commands.js
+
 │   └── index.js
+
 cypress.json
+
 package.json
+
 
 ### Artigos de referencia utilizados
 [Boas praticas do cypress ](https://docs.cypress.io/guides/references/best-practices)
