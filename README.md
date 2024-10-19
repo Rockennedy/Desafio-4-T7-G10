@@ -40,15 +40,15 @@ cypress.json
 package.json
 
 ##Como Executar os Testes
+
 Para executar esses testes, siga os passos abaixo:
 
-Instale as dependências do Cypress no seu projeto:
-bash
-Copiar código
-npm install
 Abra o Cypress usando o comando:
+
 bash
+
 Copiar código
+
 npx cypress open
 
 ### Artigos de referencia utilizados
