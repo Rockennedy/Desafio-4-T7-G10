@@ -5,6 +5,7 @@ Junte-se a outros 4 amigos e usem o ChatGPT para cria um projeto de automação 
 ### Pré-Requisitos do Projeto
 
 Para execução dos testes foi utilizado os seguintes softwares:
+
 [Visual Studio Code](https://code.visualstudio.com/)
 
 [Node JS](https://nodejs.org/pt)
@@ -41,11 +42,17 @@ package.json
 
 ### Artigos de referencia utilizados
 [Boas praticas do cypress ](https://docs.cypress.io/guides/references/best-practices)
+
 [Como fazer login com Cypress em diferentes ambientes – TALKING ABOUT TESTING](https://talkingabouttesting.com/2021/10/09/como-fazer-login-com-cypress-em-diferentes-ambientes/comment-page-1/)
 
 ### Colaboradores do desafio
+
 [Alessandro Peçanha ](https://www.linkedin.com/in/alessandro-pe%C3%A7anha-3a28582b/)
+
 [Anderson Ricardo Manzato](https://www.linkedin.com/in/anderson-manzato/)
+
 [Jorge Kennedy](https://www.linkedin.com/in/jorge-kennedy-de-lima-freitas/)
+
 [Rafael Caires Mariano](https://br.linkedin.com/in/rafael-caires-mariano-757858173)
-Tatiane Santoro
+
+[Tatiane Santoro](https://linkedin.com/in/tatiane-santoro-b7899351)
