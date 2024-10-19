@@ -6,8 +6,11 @@ Junte-se a outros 4 amigos e usem o ChatGPT para cria um projeto de automação 
 
 Para execução dos testes foi utilizado os seguintes softwares:
 [Visual Studio Code](https://code.visualstudio.com/)
+
 [Node JS](https://nodejs.org/pt)
+
 [Cypress](https://www.cypress.io/)
+
 ### Estrutura do Projeto
 A estrutura do projeto está organizada da seguinte forma:
 
