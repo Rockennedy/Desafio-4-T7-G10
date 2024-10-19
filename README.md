@@ -56,6 +56,8 @@ npx cypress open
 
 [Como fazer login com Cypress em diferentes ambientes – TALKING ABOUT TESTING](https://talkingabouttesting.com/2021/10/09/como-fazer-login-com-cypress-em-diferentes-ambientes/comment-page-1/)
 
+[Pesquisa no ChatGPT](https://chatgpt.com/share/6712ed6b-7a08-800c-ad35-6b508aa64557)
+
 ### Colaboradores do desafio
 
 [Alessandro Peçanha ](https://www.linkedin.com/in/alessandro-pe%C3%A7anha-3a28582b/)
