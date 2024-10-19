@@ -12,6 +12,7 @@ Para execução dos testes foi utilizado os seguintes softwares:
 A estrutura do projeto está organizada da seguinte forma:
 cypress/
 ├── fixtures/
+
 │   └── user.json
 ├── integration/
 │   └── login.spec.js
